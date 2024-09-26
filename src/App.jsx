@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import ThisIsGame from './components/ThisIsGame'
+import GameArea from './components/GameArea'
 
 function App() {
   return (
     <>
-      <ThisIsGame />
+      <GameArea />
     </>
   )
 }
